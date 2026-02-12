@@ -1,0 +1,7 @@
+{
+  "name": "CladTrack Pro ERP",
+  "description": "High-fidelity Engineer-to-Order ERP for Cladded Spool Fabrication, featuring predictive planning, TPI handshake, and QC gate flow.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
